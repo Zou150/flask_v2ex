@@ -33,5 +33,3 @@ python manage.py runserver
 ```
 
 ---
-## 社区界面
-![界面图片](http://upload-images.jianshu.io/upload_images/1674772-c8607a3c14edee99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
